@@ -1,0 +1,62 @@
+/*___________________________________________________________________________________________________________________________*/
+
+/*header*/
+.headerlinks {
+    text-decoration: none;
+    float: right;
+    width: 100px;
+    color: #056;
+}
+
+/*div contenedor*/
+
+.container {
+    background-image: url(monumento.jpg);
+    background-size: cover;
+    color: #fff;
+    font-family: 'Roboto';
+    padding: 12px 0px 12px 0px;
+}
+
+.img {
+    vertical-align: middle;
+}
+
+.textContainer1 {
+    padding-left: 60px;
+    font-size: 50px;
+}
+.textContainer2 {
+    padding-left: 220px;
+    font-size: 50px;
+}
+.textContainer3 {
+    padding-left: 395px;
+    font-size: 65px;
+}
+.textContainer4 {
+    padding-left: 390px;
+    font-size: 50px;
+}
+
+.textContainer5 {
+    font-size: 65px;
+}
+
+/*cuerpo restante*/
+
+.text1 {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: #c60;
+}
+
+.text2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.text3 {
+    text-align: center;
+}
