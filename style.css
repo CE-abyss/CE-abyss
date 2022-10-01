@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.Presentation {
+    background-color: #007760;
+    color: #f0f0f0;
+}
+
+.Name {
+    display: inline-block;
+}
+
+.Skills {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Contact {
+    position: relative;
+    float: right;
+}
