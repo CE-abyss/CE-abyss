@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: #d0d0d0;
+}
+
+.Presentation {
+    background-color: #007760;
+    color: #f0f0f0;
+}
+
+.Name {
+    display: inline-block;
+}
+
+.Skills {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Highlight {
+    display: grid;
+    background-color: #dd5522;
+    color: #ffffff;
+}
+
+.Title {
+    font-weight: bold;
+    padding: 0px 10px 0px 10px;
+}
+
+.WebProyects {
+    color: #ffffff;
+    padding: 0px 10px 0px 10px;
+
+}
